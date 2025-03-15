@@ -1,6 +1,6 @@
 # 🚀 The fast track to a fully-featured, full-stack news app.
 
-The Headlines Toolkit provides a comprehensive, source-available foundation for building robust and feature-rich news applications. This full-stack solution includes a Flutter mobile app, a web-based management dashboard, a scalable backend, and reusable packages to streamline development.
+The Headlines Toolkit provides a comprehensive, source-available foundation for building robust and feature-rich news applications. This full-stack solution includes a Flutter mobile app, a web-based management dashboard and reusable packages to streamline development.
 
 ## ⚖️ Licensing
 
