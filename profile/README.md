@@ -8,6 +8,6 @@ All repositories under this organization are governed by the [PolyForm Free Tria
 
 ## 💰 Commercial License
 
-Unlock the full potential of the Headlines Toolkit with a commercial license! Gain the rights to deploy, customize, and distribute your news application built upon this powerful foundation. The commercial license covers all this organization repositories – the Flutter app, web dashboard, and all associated packages – providing a complete and integrated solution.
+All repositories under this organization can be unlocked by a single commercial license enabling you to Unlock the full potential of the Headlines Toolkit by Gaining the rights to deploy, customize, and distribute your news application built upon this powerful foundation.
 
 Acquire your commercial license [here]()
