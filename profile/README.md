@@ -1,6 +1,6 @@
 # 🚀 The fast track to a fully-featured, full-stack news app.
 
-Comprehensive, source-available foundation for building robust and feature-rich news applications. This full-stack solution includes a Flutter mobile app, a web-based management dashboard and reusable packages to streamline development.
+Comprehensive, source-available foundation for building robust and feature-rich news applications. This full-stack solution includes a Flutter mobile app, a web-based content management dashboard and a robust backend API.
 
 ## ⚖️ License - Organization-Wide Free Trial
 
