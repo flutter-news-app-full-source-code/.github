@@ -1,13 +1,23 @@
-# 🚀 The fast track to a fully-featured, full-stack news app.
+# Your Full-Stack Flutter News App - Ready to Launch
 
-Comprehensive, source-available foundation for building robust and feature-rich news applications. This full-stack solution includes a Flutter mobile app, a web-based content management dashboard and a robust backend API.
+This is the complete source code for a full-stack news application. You get everything you need to deploy and manage your own news platform: a feature-rich Flutter mobile app for Android & iOS, a powerful web-based admin dashboard, and a scalable backend API server.
 
-## ⚖️ License - Organization-Wide Free Trial
+---
 
-All repositories within this organization are **source available** and governed by a [Free Trial License](https://polyformproject.org/licenses/free-trial/1.0.0/). You can freely **explore** the source code and **evaluate** them locally for up to 32 consecutive days. A commercial license is required for any use beyond this evaluation period.
+### ⚖️ Free Trial License: Explore & Test Locally
 
-## 💼 Commercial License - Organization-Wide Access
+All repositories here are source-available. Download the complete source code and run the entire system on your local machine. This is the perfect way to verify the quality and see if it's the right fit for your project before you buy.
 
-All repositories within this organization can be **unlocked** by a **single Commercial License**, enabling you to **leverage its full potential**.  Gain the rights to **deploy**, **customize**, and **distribute** your news application built upon this powerful foundation.
+### 💼 Lifetime Commercial License: Deploy & Own
 
-**Acquire your Commercial License [here](https://github.com/sponsors/headlines-toolkit/)**
+A single, one-time purchase grants you a lifetime commercial license for **every repository** in this organization. This unlocks the full potential of the project, allowing you to:
+
+*   ✅ **Publish Unlimited Apps:** Build and deploy as many commercial news applications as you want from this codebase.
+*   ✅ **Customize Everything:** Extensively modify the source code to perfectly match your brand and vision.
+*   ✅ **Sell Your Final Apps:** You have the full right to sell your compiled applications on the App Store, Google Play, or anywhere else.
+*   ✅ **Get Lifetime Updates:** Receive ongoing updates and new features for all repositories with your single purchase.
+
+> [!CAUTION]
+> **License Restriction:** To protect the value of the source code for all license holders, making the original or modified source code publicly available in any form (distribution, sale, or sharing) is strictly prohibited.
+
+**[Purchase Your Lifetime License Here](https://github.com/sponsors/flutter-news-app-full-source-code)**
