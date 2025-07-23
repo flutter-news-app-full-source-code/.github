@@ -8,6 +8,7 @@ This Lifetime Developer License ("License") is a legal agreement between you ("Y
 *   **"You"** refers to the individual or entity that has acquired this license through a valid Proof of Purchase.
 *   **"The Licensed Source Code"** refers to the entire collection of source code, digital assets, and all other files, in any form, contained within the `flutter-news-app-full-source-code` GitHub organization and its repositories.
 *   **"Your Compiled Application"** refers to a functional, executable application created for end-users by compiling, building, or bundling The Licensed Source Code, or any derivative works thereof.
+*   **"Future Updates"** refers to any and all changes, revisions, additions, or new versions of The Licensed Source Code that the Licensor, at its sole discretion, chooses to make available within the `flutter-news-app-full-source-code` GitHub organization.
 *   **"Proof of Purchase"** refers to the public record of Your one-time sponsorship on the Licensor's GitHub Sponsors page.
 
 ## 2. Acceptance
@@ -21,6 +22,8 @@ Upon purchase, the Licensor grants you a perpetual, non-exclusive, worldwide, ro
 a. **Use and Modify The Licensed Source Code:** You may use, copy, and create derivative works of The Licensed Source Code for the sole purpose of developing Your Compiled Applications.
 
 b. **Develop and Distribute Your Compiled Applications:** You have the right to develop, publish, distribute, and sell an unlimited number of Your Compiled Applications.
+
+c. **Access Future Updates:** This license grant applies not only to the version of The Licensed Source Code available at the time of purchase but also to all future versions and updates made available by the Licensor within the same GitHub organization.
 
 ## 4. Key Restrictions
 
