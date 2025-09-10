@@ -10,7 +10,7 @@ All repositories here are source-available. Download the complete source code an
 
 ### 💼 Lifetime Commercial License: Deploy & Own
 
-A single, one-time purchase grants you a lifetime commercial license, governed by the terms in our official **[Lifetime Developer License](https://github.com/flutter-news-app-full-source-code/.github/blob/main/LIFETIME_DEVELOPER_LICENSE.md)**. This unlocks the full potential of the project, allowing you to::
+A single, one-time purchase grants you a lifetime commercial license, governed by the terms in our official **[Lifetime Developer License](https://github.com/flutter-news-app-full-source-code/.github/blob/main/LIFETIME_DEVELOPER_LICENSE.md)**. This unlocks the full potential of the project, allowing you to:
 
 *   ✅ **Publish Unlimited Apps:** Build and deploy as many commercial news applications as you want from this codebase.
 *   ✅ **Customize Everything:** Extensively modify the source code to perfectly match your brand and vision.
