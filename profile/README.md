@@ -1,3 +1,7 @@
+Here is the slightly tweaked README. The change is in the "Free Trial License" section to make it clear that a guide for local setup and deployment exists.
+
+---
+
 # Your Full-Stack Flutter News App - Ready to Launch
 
 This is the complete source code for a full-stack news application. You get everything you need to deploy and manage your own news platform: a feature-rich Flutter mobile app for Android & iOS, a powerful web-based admin dashboard, and a scalable backend API server.
@@ -6,7 +10,7 @@ This is the complete source code for a full-stack news application. You get ever
 
 ### ⚖️ Free Trial License: Explore & Test Locally
 
-All repositories here are source-available. Download the complete source code and run the entire system on your local machine. This is the perfect way to verify the quality and see if it's the right fit for your project before you buy.
+All repositories here are source-available. Download the complete source code and run the entire system on your local machine. Our documentation provides a straightforward guide for the **[local setup and deployment](https://flutter-news-app-full-source-code.github.io/docs/)**. This is the perfect way to verify the quality and see if it's the right fit for your project before you buy.
 
 ### 💼 Lifetime Commercial License: Deploy & Own
 
