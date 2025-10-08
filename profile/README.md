@@ -10,7 +10,7 @@ This is the complete source code for a full-stack news application. You get ever
 
 ### ⚖️ Free Trial License: Explore & Test Locally
 
-All repositories here are source-available. Download the complete source code and run the entire system on your local machine. Our documentation provides a straightforward guide for the **[local setup and deployment]([https://flutter-news-app-full-source-code.github.io/docs/](https://flutter-news-app-full-source-code.github.io/docs/getting-started/local-setup/))**. This is the perfect way to verify the quality and see if it's the right fit for your project before you buy.
+All repositories here are source-available. Download the complete source code and run the entire system on your local machine. Our documentation provides a straightforward guide for the **[local setup and deployment](https://flutter-news-app-full-source-code.github.io/docs/getting-started/local-setup/)**. This is the perfect way to verify the quality and see if it's the right fit for your project before you buy.
 
 ### 💼 Lifetime Commercial License: Deploy & Own
 
