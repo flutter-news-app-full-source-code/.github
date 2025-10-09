@@ -1,4 +1,6 @@
 This is the complete source code for a full-stack news application. You get everything you need to deploy and manage your own news platform: a feature-rich Flutter mobile app for Android & iOS, a powerful web-based admin dashboard, and a scalable backend API server.
+
+---
 <p align="center">
 <img src="https://repository-images.githubusercontent.com/946589707/33b56f2c-76c3-4af0-a67f-8c08ca494b1b" alt="Flutter News App Toolkit Mockup" width="440" >
 </p>
