@@ -36,7 +36,7 @@ A one-time purchase grants you a lifetime commercial license to launch your news
 | **Full Source Code Access**  | ✅ All Repositories                                              |
 | **Right to Modify Code**     | ✅ Yes                                                           |
 | **Right to Monetize**        | ✅ Yes (Subscriptions, Ads, etc.)                                  |
-| **License Terms**            | **[Read Full License Terms](./.github/LIFETIME_LICENSE.md)**      |
+| **License Terms**            | **[Read Full License Terms](./.github/LIFETIME_COMMERCIAL_LICENSE.md)**      |
 
 > **Note on Price:** This is our introductory launch price and is subject to increase in the future. Your purchase locks in lifetime access at the current rate.
 > ### **[Purchase Your Lifetime License via GitHub Sponsors](https://github.com/sponsors/flutter-news-app-full-source-code)**
