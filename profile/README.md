@@ -1,5 +1,3 @@
-# Flutter News App Full Source Code Toolkit
-
 Launch your complete, production-grade news platform in days, not months. This is the entire full-stack solution for developers and businesses who want to deploy a professional news application without starting from scratch.
 
 ---
