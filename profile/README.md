@@ -45,11 +45,11 @@ A one-time purchase grants you a lifetime commercial license to launch your news
 
 ### ❗️ Important: License Validation
 
-To protect the value of the toolkit for all licensed developers, we actively monitor the app stores for unauthorized use.
+To protect the value of the toolkit for all our licensed developers, we routinely monitor the app stores for unauthorized use.
 
-**After your purchase, you must register your application's ID with us.** This is a mandatory step to whitelist your app and prevent it from being mistakenly flagged during our enforcement sweeps.
+To ensure your legitimate application is not mistakenly flagged during these checks, it is a requirement of the license to whitelist your application's IDs with us. You can do this at any time before you publish.
 
-**To register, please send an email to `fulleni@hotmail.com` with:**
+**To register your application, please send an email to `fulleni@hotmail.com` with:**
 1.  Your GitHub username (used for the purchase).
 2.  Your unique Application ID (for Android) and Bundle Identifier (for iOS).
 
