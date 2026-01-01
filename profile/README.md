@@ -20,7 +20,7 @@ This toolkit includes:
 
 ### ⚖️ Free Trial: Explore & Verify Locally
 
-All repositories are source-available. You can download the complete code and run the entire system on your local machine. Our **[Local Setup Guide](https://flutter-news-app-full-source-code.github.io/docs/getting-started/local-setup/)** provides clear instructions. This allows for unlimited local testing and evaluation to verify the quality of the toolkit. **Using the source code in a commercial, production, or public-facing application is strictly prohibited without a purchased Lifetime License.**
+All repositories are source-available. For a complete guide on setting up your local environment and running this project, please see the Wiki tab in each repository. This allows for unlimited local testing and evaluation to verify the quality of the toolkit. **Using the source code in a commercial, production, or public-facing application is strictly prohibited without a purchased Lifetime License.**
 
 ### 💼 Lifetime Commercial License
 
