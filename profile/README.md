@@ -1,22 +1,18 @@
 Launch your complete, production-grade news platform in days, not months. This is the entire full-stack solution for developers and businesses who want to deploy a professional news application without starting from scratch.
 
----
-<p align="center">
-<img src="https://repository-images.githubusercontent.com/946589707/1ee61062-ded3-44f9-bb6d-c35cd03b5d64" alt="Flutter News App Toolkit" width="440" >
-</p>
-
----
-
-### You Are Buying a Business-in-a-Box, Not a Template.
-
-Unlike a basic template, this is a complete, production-grade business system. We've invested thousands of hours in enterprise-level features like a zero-trust subscription server, a real-time remote control dashboard, and a business intelligence engine—features that save you months of high-cost development and give you an unparalleled strategic advantage.
-
 This toolkit includes:
 
 *   ✅ **A Feature-Rich Flutter Mobile App (iOS & Android)**
 *   ✅ **A Powerful Flutter Web Admin Dashboard**
 *   ✅ **A Scalable Dart Frog Backend API**
 *   ✅ **A Full Suite of Supporting Packages**
+
+---
+<p align="center">
+<img src="https://repository-images.githubusercontent.com/946589707/1ee61062-ded3-44f9-bb6d-c35cd03b5d64" alt="Flutter News App Toolkit" width="440" >
+</p>
+
+---
 
 ### ⚖️ Free Trial: Explore & Verify Locally
 
