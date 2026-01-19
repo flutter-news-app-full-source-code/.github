@@ -56,7 +56,7 @@ IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILI
 
 ## 9. Governing Law
 
-This License shall be governed by and construed in accordance with the laws of [YOUR COUNTRY OR STATE], without regard to its conflict of law provisions.
+This License shall be governed by and construed in accordance with the laws of the Republic of Tunisia, without regard to its conflict of law provisions.
 
 ## 10. Termination
 
