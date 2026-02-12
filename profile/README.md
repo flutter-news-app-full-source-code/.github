@@ -24,7 +24,7 @@ A one-time purchase grants you a lifetime commercial license to launch your news
 
 | Feature                      | Lifetime Commercial License                                      |
 | ---------------------------- | ---------------------------------------------------------------- |
-| **Launch Price**             | **$89**                                                         |
+| **Price**             | **$89**                                                         |
 | **Number of Applications**   | **One (1) Application**                                          |
 | **Platforms Supported**      | Apple App Store & Google Play Store                              |
 | **Full Source Code Access**  | ✅ All Repositories                                              |
