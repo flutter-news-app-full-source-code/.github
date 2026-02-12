@@ -24,12 +24,12 @@ A one-time purchase grants you a lifetime commercial license to launch your news
 
 | Feature                      | Lifetime Commercial License                                      |
 | ---------------------------- | ---------------------------------------------------------------- |
-| **Launch Price**             | **$499**                                                         |
+| **Launch Price**             | **$89**                                                         |
 | **Number of Applications**   | **One (1) Application**                                          |
 | **Platforms Supported**      | Apple App Store & Google Play Store                              |
 | **Full Source Code Access**  | ✅ All Repositories                                              |
 | **Right to Modify Code**     | ✅ Yes                                                           |
-| **Right to Monetize**        | ✅ Yes (Ads, etc.)                                  |
+| **Right to Monetize**        | ✅ Yes (via Ads, In-app purchases, etc)                                  |
 | **License Terms**            | **[Read Full License Terms](https://github.com/flutter-news-app-full-source-code/.github/blob/main/LIFETIME_COMMERCIAL_LICENSE.md)**      |
 
 > ### **[Purchase Your Lifetime License via GitHub Sponsors](https://github.com/sponsors/flutter-news-app-full-source-code)**
